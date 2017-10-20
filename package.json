@@ -1,0 +1,22 @@
+{
+  "name": "procurador-youtube",
+  "version": "1.0.0",
+  "description": "Procura videos no youtube",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "youtube",
+    "procurar",
+    "api",
+    "nodejs"
+  ],
+  "author": "Carlos Teixeira",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "youtube-node": "^1.3.2"
+  }
+}
