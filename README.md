@@ -14,7 +14,7 @@ Para instalar basta entrar no directorio pelo cmd/terminal e fazer,
 npm install
 ```
 ### O que fazer antes de executar o procurador?
-Para o procurador funcionar é necessario obter uma key de desenvolvedor do google e depois mudar na seguinta linha,
+Para o procurador funcionar é necessario obter uma <a href="https://console.developers.google.com/apis/credentials">key de desenvolvedor do google</a> e depois mudar na seguinta linha,
 ```
 var pkey = 'A SUA KEY DE DESENVOLVEDOR DO GOOGLE!!';
 ```
